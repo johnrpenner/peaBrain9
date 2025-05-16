@@ -1,4 +1,4 @@
-peaBrain 9 ©2024 by John Roland Penner
+peaBrain 9 ©2025 by John Roland Penner
 peaBrain 9 is a UCI Chess Engine written in Swift for macOS
 released: May 15, 2025 • toronto island
 
